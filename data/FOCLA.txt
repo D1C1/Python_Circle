@@ -1,0 +1,9 @@
+p0 942,62 focal = p4
+
+p5 1053,89 focal = p6
+
+p2 1086,49 focal
+
+Mangler p1 og p3
+
+Paper 1132,07 focal
